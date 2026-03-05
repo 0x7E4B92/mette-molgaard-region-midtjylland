@@ -8,9 +8,13 @@
 
 ## Baggrund: Den Opfundne Diagnose
 
-I forbindelse med en klagesag mod MedAssist ApS ved Styrelsen for Patientklager fremsendte MedAssist's faglige leder, **Henriette Bro Andersen Sambleben**, en udtalelse hvori hun beskrev patienten som havende en **"skizofren personlighed"**.
+I forbindelse med en klagesag mod MedAssist ApS ved Region Midtjylland fremsendte læge **Henrik Olesen** en formel, underskrevet erklæring til Region Midtjylland hvori han erklærede at patienten havde en **"skizofren personlighed"**.
 
-Denne diagnose eksisterer ikke. Hverken i ICD-10 eller ICD-11. Det nærmeste er "Skizotypisk sindslidelse" (F21) og "Skizoid personlighedsforstyrrelse" (F60.1) — to separate, veldefinerede diagnoser.
+Dette er ikke en journalnotits. Det er en formel, underskrevet erklæring fremsendt til en offentlig myndighed — omfattet af Straffelovens § 163 om falsk erklæring afgivet til offentlig myndighed.
+
+Diagnosen eksisterer ikke. Hverken i ICD-10 eller ICD-11. Det nærmeste er "Skizotypisk sindslidelse" (F21) og "Skizoid personlighedsforstyrrelse" (F60.1).
+
+Bemærk: Uafhængigt heraf fremsendte **Henriette Bro Andersen Sambleben** i december 2025 en tilsvarende erklæring til STPK med samme ikke-eksisterende diagnose — to separate sundhedspersoner, to separate officielle sagsbehandlinger.
 
 ---
 
