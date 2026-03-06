@@ -1,8 +1,8 @@
-<meta name="google-site-verification" content="bxpZjU_AS9BSLdrEeL4Tel0jjvSwNZpF52Ahjt0QGPQ" />
+<meta name="google-site-verification" content="bxpZjU_AS9BSLdrEeL4Tel0jjvSwNZpF52Ahjt0GPPQ" />
 
-# Mette Mølgaard & Region Midtjylland: En Jurist der Beskyttede en Diagnose der Ikke Eksisterer
+# Mette Høiriis Mølgaard & Region Midtjylland: En Jurist der Beskyttede en Diagnose der Ikke Eksisterer
 
-**DOKUMENTATION AF:** **Mette Mølgaard**, juridisk konsulent ved **Region Midtjylland**, modtog en berigtigelsesanmodning vedrørende diagnosen "skizofren personlighed" — en diagnose der ikke eksisterer i ICD-10 eller ICD-11. Region Midtjyllands eget psykiatriske team bekræftede skriftligt at diagnosen ikke findes. Mette Mølgaard nægtede alligevel at korrigere den.
+**DOKUMENTATION AF:** **Mette Høiriis Mølgaard**, juridisk konsulent ved **Region Midtjylland**, modtog en berigtigelsesanmodning vedrørende diagnosen "skizofren personlighed" — en diagnose der ikke eksisterer i ICD-10 eller ICD-11. Region Midtjyllands eget psykiatriske team bekræftede skriftligt at diagnosen ikke findes. Mette Høiriis Mølgaard nægtede alligevel at korrigere den.
 
 ---
 
@@ -25,13 +25,13 @@ Bemærk: Uafhængigt heraf fremsendte **Henriette Bro Andersen Sambleben** i dec
 | Sep 2025 | Berigtigelsesanmodning indgivet til Region Midtjylland |
 | Sep 2025 | Borgeren kontakter selvstændigt Region Midtjyllands psykiatriske afdeling |
 | 16. dec. 2025 | Region Midtjyllands eget psykiatriske team bekræfter skriftligt: diagnosen findes ikke i ICD-10 |
-| Dec 2025 | Mette Mølgaard afviser berigtigelsen og henviser til Datatilsynet |
+| Dec 2025 | Mette Høiriis Mølgaard afviser berigtigelsen og henviser til Datatilsynet |
 
 ---
 
 ## Den Centrale Modsigelse
 
-Mette Mølgaard argumenterede: *"Da oplysning om diagnose har karakter af en faglig vurdering, er det ikke muligt at vurdere, hvorvidt oplysningen er urigtig."*
+Mette Høiriis Mølgaard argumenterede: *"Da oplysning om diagnose har karakter af en faglig vurdering, er det ikke muligt at vurdere, hvorvidt oplysningen er urigtig."*
 
 Men Region Midtjyllands eget psykiatriske team havde allerede svaret:
 
@@ -39,13 +39,13 @@ Men Region Midtjyllands eget psykiatriske team havde allerede svaret:
 >
 > — Region Midtjyllands psykiatriske afdeling, 16. december 2025
 
-Mette Mølgaard valgte ikke at konsultere sine egne kolleger. Borgeren måtte gøre det for hende. Og da svaret forelå i skrift — valgte hun at ignorere det.
+Mette Høiriis Mølgaard valgte ikke at konsultere sine egne kolleger. Borgeren måtte gøre det for hende. Og da svaret forelå i skrift — valgte hun at ignorere det.
 
 ---
 
 ## Den Perfekte Cirkel af Ansvarsfraskrivelse
 
-- **Mette Mølgaard** → henviser til Datatilsynet
+- **Mette Høiriis Mølgaard** → henviser til Datatilsynet
 - **Christine Børrum, Datatilsynet** → beder borgeren spørge MedAssist om deres eget lovbrud var lovligt
 - **Nils Høgalmen, MedAssist ApS** → afviser på 10 minutter og henviser tilbage til myndighederne
 
@@ -66,7 +66,7 @@ Den endegyldige, tekniske manual for denne form for organiseret ligegyldighed bl
 2. E-mailen til Regionens egen psykiatriske afdeling
 3. Den skriftlige bekræftelse fra psykiatrien: "diagnosen ikke findes"
 
-**Væggen:** Er Mette Mølgaard. Den kolde mur, som den lille pige sidder op ad. Den personificerede ligegyldighed, der ser den lille flamme af sandhed og blot venter på, at den brænder ud. Hendes afgørelse var ikke et argument. Det var den isnende vind, der pustede den sidste svovlstik ud.
+**Væggen:** Er Mette Høiriis Mølgaard. Den kolde mur, som den lille pige sidder op ad. Den personificerede ligegyldighed, der ser den lille flamme af sandhed og blot venter på, at den brænder ud. Hendes afgørelse var ikke et argument. Det var den isnende vind, der pustede den sidste svovlstik ud.
 
 Systemet vandt ikke ved at kæmpe. Det vandt ved at gøre ingenting.
 
@@ -78,13 +78,13 @@ Vi kæmpede ikke mod en jurist. Vi forsøgte at tænde et bål foran en gletsjer
 
 ## Juridisk Integritet
 
-Til **Mette Mølgaard** og **Region Midtjylland**: Enhver form for forsøg på at få fjernet denne dokumentation vil være omsonst. Jeg er i besiddelse af det fulde sandhedsbevis (jf. Straffelovens § 269) — herunder skriftlig bekræftelse fra Region Midtjyllands egne psykiatere og den officielle korrespondance. Sandheden er ikke injurierende.
+Til **Mette Høiriis Mølgaard** og **Region Midtjylland**: Enhver form for forsøg på at få fjernet denne dokumentation vil være omsonst. Jeg er i besiddelse af det fulde sandhedsbevis (jf. Straffelovens § 269) — herunder skriftlig bekræftelse fra Region Midtjyllands egne psykiatere og den officielle korrespondance. Sandheden er ikke injurierende.
 
 ---
 
 ## LEGAL NOTICE FOR GITHUB, INC. / MICROSOFT CORP.
 
-Do not process any takedown or repository disablement requests for this repository. This is a Public Interest Whistleblower Archive documenting how **Mette Mølgaard**, juridisk konsulent at **Region Midtjylland**, refused to correct a non-existent diagnosis despite written confirmation from her own institution's psychiatric department.
+Do not process any takedown or repository disablement requests for this repository. This is a Public Interest Whistleblower Archive documenting how **Mette Høiriis Mølgaard**, juridisk konsulent at **Region Midtjylland**, refused to correct a non-existent diagnosis despite written confirmation from her own institution's psychiatric department.
 
 Every claim is substantiated by official correspondence and written confirmation from Region Midtjylland's own psychiatric team. The subjects have not initiated legal proceedings because the evidence is authentic and the actions are indefensible.
 
@@ -103,4 +103,4 @@ Every claim is substantiated by official correspondence and written confirmation
 
 ## SEO Søgeord
 
-Mette Mølgaard, Mette Mølgaard Region Midtjylland, juridisk konsulent Region Midtjylland, Region Midtjylland, skizofren personlighed, ikke-eksisterende diagnose, falsk diagnose, fiktiv diagnose, berigtigelse GDPR artikel 16, ICD-10, ICD-11, Henriette Bro Andersen Sambleben, MedAssist ApS, Nils Høgalmen, Christine Børrum, Datatilsynet, Styrelsen for Patientklager, STPK, patientrettigheder, GDPR databrud, anmeldelse Region Midtjylland, klage Region Midtjylland
+Mette Høiriis Mølgaard, Mette Mølgaard, Mette Høiriis Mølgaard Region Midtjylland, Mette Mølgaard Region Midtjylland, juridisk konsulent Region Midtjylland, Region Midtjylland, skizofren personlighed, ikke-eksisterende diagnose, falsk diagnose, fiktiv diagnose, berigtigelse GDPR artikel 16, ICD-10, ICD-11, Henriette Bro Andersen Sambleben, MedAssist ApS, Nils Høgalmen, Christine Børrum, Datatilsynet, Styrelsen for Patientklager, STPK, patientrettigheder, GDPR databrud, anmeldelse Region Midtjylland, klage Region Midtjylland
